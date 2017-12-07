@@ -1,0 +1,1 @@
+use `pygame`'s `joystick`module and use `pyinstaller`  pack to the .exe youcak simple double click `joystick.exe` which in `dict/joystick` to execute without python environment
